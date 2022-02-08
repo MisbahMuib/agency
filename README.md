@@ -10,7 +10,7 @@ Single Page Website
 * Bootstrap
 * CSS3
 * JavaScript
-* Sweet Alert
+* Sweet Alert 2
 * AOS animation
 
 
