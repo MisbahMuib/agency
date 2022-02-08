@@ -1,5 +1,5 @@
 # Team Marketing Agency Creative 
-Single Page Website
+A marketing agency website which specializes in helping  businesses attract potential customers through a variety of channels.
 
 [Live Website](https://www.tmacbd.com/)
 
